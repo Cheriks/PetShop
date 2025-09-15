@@ -7,7 +7,7 @@ public class Pets {
     int age;
 
     //Konstruktør
-    public Pets(String name, String breed, int age, String bite, String move){
+    public Pets(String name, String breed, int age, String move){
         this.name = name;
         this.breed = breed;
         this.age = age;
